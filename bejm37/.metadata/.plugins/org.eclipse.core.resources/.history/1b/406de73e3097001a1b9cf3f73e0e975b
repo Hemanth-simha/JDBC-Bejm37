@@ -1,0 +1,9 @@
+package com.jspiders.practice.first;
+
+public class MyFile {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

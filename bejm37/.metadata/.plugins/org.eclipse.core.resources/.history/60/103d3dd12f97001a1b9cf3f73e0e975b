@@ -1,0 +1,13 @@
+package com.jspiders.practice.first;
+
+import java.io.File;
+
+public class MyFolder {
+
+	public static void main(String[] args) {
+		
+		new File("C:\\jspiders\\bejm37/MyFolder");
+		
+	}
+
+}

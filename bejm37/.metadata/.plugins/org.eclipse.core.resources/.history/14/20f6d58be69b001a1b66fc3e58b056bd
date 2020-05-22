@@ -1,0 +1,17 @@
+package com.jspiders.practice.second;
+
+public class ClassA {
+	
+	public ClassA()
+	{
+		System.out.println("Constructor 1 Called");
+	}
+	public ClassA(int num)
+	{
+		
+	}
+	public ClassA(char type)
+	{
+		
+	}
+}

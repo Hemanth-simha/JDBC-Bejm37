@@ -1,0 +1,10 @@
+package com.jspiders.practice.first;
+
+public class MyFolder {
+
+	public static void main(String[] args) {
+		
+		
+	}
+
+}

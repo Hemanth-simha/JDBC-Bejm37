@@ -1,0 +1,14 @@
+package com.jspiders.practice.first;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		//main()-1
+	}
+	public static void main(int num) {
+		//main()-2
+	}
+	public static void main(char type) {
+		//main()-3
+	}
+}
