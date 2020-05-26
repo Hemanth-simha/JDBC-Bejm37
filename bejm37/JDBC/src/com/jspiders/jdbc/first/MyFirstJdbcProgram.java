@@ -18,7 +18,7 @@ public class MyFirstJdbcProgram {
 			Driver driverref = new Driver();
 			DriverManager.registerDriver(driverref);
 
-			String dburl = "jdbc:mysql://localhost:3306/bejm37?user=root&password=root";
+String dburl = "jdbc:mysql://localhost:3306/bejm37?user=root&password=root";
 			CON = DriverManager.getConnection(dburl);
 
 			String query = " select * from studentsinfo ";
